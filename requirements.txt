@@ -63,7 +63,7 @@ fastcache==1.0.2
 fbmessenger==4.3.1
 filelock==2.0.12
 Flask==0.12
-Flask-Cors==3.0.3
+Flask-Cors==3.0.9
 Flask-JWT-Simple==0.0.3
 ftfy==4.4.3
 future==0.16.0
